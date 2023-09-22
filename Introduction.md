@@ -14,3 +14,5 @@ Avant de nous entraîner avec de petits et simples exercices, v*oici le plan dé
 3. **Les cookies en PHP**
     1. Définir un cookie
     2. Lire un cookie
+
+![image](https://github.com/DevFoxie/PHP-introduction-2/assets/120173004/8b9c510a-81b7-43e2-8e12-83b64c4e57e5)
